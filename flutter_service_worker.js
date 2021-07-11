@@ -15,14 +15,14 @@ const RESOURCES = {
 "assets/lib/assets/icons/logo_light.svg": "f3dd9a0500236ff0c94c7ba607bcb4a8",
 "assets/lib/assets/icons/logo_monochrome.svg": "3b01cce5f46851c76c0f5b0df2eed640",
 "assets/lib/assets/test_image.jpg": "68d7872bfdc6adfbe57f98e668af48a2",
-"assets/NOTICES": "2faee832c8b3f2ba0143b5a2650c4d2b",
+"assets/NOTICES": "4f9ebd078377197337c1c90336cb3bde",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "cf096e0c759969de16c7daa1985fa6cd",
-"/": "cf096e0c759969de16c7daa1985fa6cd",
-"main.dart.js": "5ea38a2895ae74b7bf7dcc831847f6c2",
+"index.html": "e1d3b4f1e613f7d89d03f61c58999b95",
+"/": "e1d3b4f1e613f7d89d03f61c58999b95",
+"main.dart.js": "4ec827073edea9090ac9238532e1a98b",
 "manifest.json": "cb01c5ad9f27de23d2f3feb0c4893038",
 "version.json": "78308143df79aa1b916cc6e8b4cdaf8b"
 };
